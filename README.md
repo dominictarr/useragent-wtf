@@ -1,6 +1,6 @@
 # useragent-wtf
 
-Just tell me what the current useragent is!
+Just tell me what the current useragent is! [demo](http://dominictarr.github.com/useragent-wtf)
 
 ```
 var ua = require('useragent-wtf')
