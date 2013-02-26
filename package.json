@@ -1,7 +1,7 @@
 {
   "name": "useragent-wtf",
   "description": "JUST TELL ME THE USERAGENT!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/dominictarr/useragent-wtf",
   "repository": {
     "type": "git",
