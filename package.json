@@ -8,7 +8,7 @@
     "url": "git://github.com/dominictarr/useragent-wtf.git"
   },
   "dependencies": {
-    "ua_parser": "1.0.7"
+    "ua_parser": "^1.0.14"
   },
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
   "license": "MIT"  
