@@ -1,7 +1,7 @@
 {
   "name": "useragent-wtf",
   "description": "JUST TELL ME THE USERAGENT!",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/dominictarr/useragent-wtf",
   "repository": {
     "type": "git",
@@ -11,5 +11,5 @@
     "ua_parser": "^1.0.14"
   },
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
-  "license": "MIT"  
+  "license": "MIT"
 }
